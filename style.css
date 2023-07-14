@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    transform-origin: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body {
+    background: #ffffff url(https://th.bing.com/th?id=OIP.bIshAZ4Q1AM5iNticgYUkQHaJA&w=226&h=275&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 800px;
+    height: 560px;
+    margin-top: 70px;
+
+}
+
+.eyes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+    margin-left: -150px;
+}
+
+.eye {
+    width: 40px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin: 30px;
+    padding-left: -200px;
+    text-align: center;
+}
+
+.ball {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK40sa-gTBaNnfYaLKRqj7DJL8mKCLegf6oA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+
+}
